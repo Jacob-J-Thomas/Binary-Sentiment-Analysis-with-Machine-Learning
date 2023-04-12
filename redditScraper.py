@@ -84,11 +84,11 @@ def get_data(subR, n_samples):
 #returns authenticated instance of reddit
 def authenticate():
     reddit = praw.Reddit(
-        client_id = "WR8P3Z6eTfMnm881Gn-lmw",
-        client_secret = "cFQfdkbzdxZBx-rIGATE0zkYaNRH5w",
-        password = "X5^Sxz^$-cT5eVH",
-        user_agent = "Web Scraper for Personal ML Project 0.2 by /u/decentcelebration501",
-        username = "decentcelebration501",
+        client_id = "#####################",
+        client_secret = "#######################",
+        password = "################",
+        user_agent = "Web Scraper for Personal ML Project 0.2 by /u/###############",
+        username = "###############",
     )
     return reddit
 
