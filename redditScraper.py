@@ -87,7 +87,7 @@ def authenticate():
         client_id = "#####################",
         client_secret = "#######################",
         password = "################",
-        user_agent = "Web Scraper for Personal ML Project 0.2 by /u/###############",
+        user_agent = "Web Scraper for Personal ML Project 1.0 by /u/###############",
         username = "###############",
     )
     return reddit
